@@ -1,6 +1,6 @@
-# Building Angular with Docker container
+# Building Angular 9 with Docker container
 
-## Create your Angular project 
+## Create your Angular 9 project 
 
     ng new demo
 
@@ -57,6 +57,6 @@ Dockerfile
 
     docker-compose up -d --build
 
-## Run image with live refresh
+## Run Angular 9 with live reload
 
     docker-compose up
